@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Designer and Full stack Developer
 --------------------------
 
-I recently learned to code but I've found my passion in web design
+Full stack developper based in Madagascar
 
-* 🌍  I'm based in Antananarivo, Madagascar
-* ✉️  You can contact me at [michaandriamada@gmail.com](mailto:michaandriamada@gmail.com)
-* 🧠  I'm learning Spline for 3D Assets
-* 🤝  I'm open to collaborating on Web designing
+*   I'm based in Antananarivo, Madagascar
+*   You can contact me at [michaandriamada@gmail.com](mailto:michaandriamada@gmail.com)
+*   I'm open to collaborating on Web designing and development
 
 <a href="https://www.github.com/LowFlax" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/LowFlax?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/LosPolaire" target="_blank" rel="noreferrer"><img
@@ -30,13 +29,8 @@ src="https://img.shields.io/twitter/follow/LosPolaire?logo=twitter&style=for-the
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LowFlax"><img src="https://github-readme-stats.vercel.app/api?username=LowFlax&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="LowFlax's GitHub stats" /></a>
-
 <a href="http://www.github.com/LowFlax"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LowFlax&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/LowFlax" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowFlax&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
